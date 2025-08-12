@@ -1,0 +1,8 @@
+Before being able to use this program you need to simple things!
+1.forex-python
+2.requests 
+
+Run this command in your terminal inside the project folder
+pip install forex-python
+pip install requests
+
